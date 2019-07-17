@@ -1,4 +1,4 @@
-# Python Volkswagen CarNet Client
+# Python Volkswagen CarNet Client for we connect platform (Thanks to jaybora for the new login process)
 
 This is a Python client for Volkswagen CarNet, it simulates the behaviour of the CarNet app. It allows users to retrieve information about the vehicle (location, temperature and mileage), next to this the Window melt and Climat functionalities can be started from the Python script.
 
@@ -8,7 +8,7 @@ Clone the Github page and modify the following values in the vw_carnet.py script
 ```
 CARNET_USERNAME = ''
 CARNET_PASSWORD = ''
-CARNET_SPIN = '' <- PIN for executing actions like used in your VW app
+not needed anymore: CARNET_SPIN = '' <- PIN for executing actions like used in your VW app
 ```
 
 Enter the correct MQTT-broker host and port in the lib_mqtt.py:
