@@ -1,3 +1,5 @@
+Update 2 for WE Connect - again working Thanks to https://github.com/youpixel
+
 # Python Volkswagen CarNet Client for we connect platform (Thanks to jaybora for the new login process)
 
 This is a Python client for Volkswagen CarNet, it simulates the behaviour of the CarNet app. It allows users to retrieve information about the vehicle (location, temperature and mileage), next to this the Window melt and Climat functionalities can be started from the Python script.
